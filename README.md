@@ -46,7 +46,7 @@ https://localhost:5001/swagger
 #### Consultar todas las transaciones
 
 ```http
-  GET /CuentasBancarias/consultar/{numeroCuenta}
+  GET /CuentasBancarias/transaciones/{numeroCuenta}
 ```
 
 | Parameter | Type     | Description                       |
